@@ -1,0 +1,4 @@
+https://www.cs.ait.ac.th/~on/O/oreilly/perl/advprog/index.htm
+https://metacpan.org/pod/CAM::PDF
+https://perldoc.perl.org/perlintro
+
