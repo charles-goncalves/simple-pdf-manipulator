@@ -1,10 +1,3 @@
-/* Universidade Federal do Rio de Janeiro 
- * Disciplina: Linguagens de Programação - Prof: Miguel Elias
- * Trabalho Final 2020/2
- * Alunos:
- *  Charles Alexandre Pereira Gonçalves
- *  Fabio do Nascimento Oliveira
- */
 #include <EXTERN.h>
 #include <perl.h>
 #include <XSUB.h>
