@@ -14,7 +14,7 @@ In order to compile the program, you must have installed:
 In the root directory of the project, execute `make` or `make pdfm` or `make all` to build the executable. For usage, see the following:
 
 ```
-usage: ./pdfm [options] arquivo...
+usage: ./pdfm [options] path...
 or: ./pdfm [options] -a BASE DEST
 or: ./pdfm [options] -e BEGIN END BASE
 or: ./pdfm [options] -d BEGIN END BASE
