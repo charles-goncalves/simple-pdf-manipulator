@@ -1,9 +1,3 @@
-/* Universidade Federal do Rio de Janeiro 
- * Disciplina: Linguagens de Programação - Prof: Miguel Elias
- * Trabalho Final 2020/2
- * Autor:
- *  Charles Alexandre Pereira Gonçalves
- */
 #include <iostream>
 #include <fstream>
 #include <string>
